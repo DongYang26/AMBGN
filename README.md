@@ -21,6 +21,7 @@ We appreciate the following github repos a lot for their valuable code base:
 
 ## Reference
 
+```
 @article{yang2024adaptive,
   title={Adaptive multi-channel Bayesian Graph Neural Network},
   author={Yang, Dong and Liu, Zhaowei and Wang, Yingjie and Xu, Jindong and Yan, Weiqing and Li, Ranran},
@@ -30,3 +31,4 @@ We appreciate the following github repos a lot for their valuable code base:
   year={2024},
   publisher={Elsevier}
 }
+```
