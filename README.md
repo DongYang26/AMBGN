@@ -9,7 +9,7 @@
 * SciPy == 1.3.1  
 * Networkx == 2.4  
 * scikit-learn == 0.21.3  
-* ogb==1.3.5
+* ogb == 1.3.5
 
 
 
