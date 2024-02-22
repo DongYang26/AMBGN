@@ -16,8 +16,11 @@
 
 We appreciate the following github repos a lot for their valuable code base:
 
-1. GEN: https://github.com/BUPT-GAMMA/Graph-Structure-Estimation-Neural-Networks
-2. GNN-LF-HF: https://github.com/BUPT-GAMMA/GNN-LF-HF
+1. GCN: https://github.com/tkipf/pygcn
+2. HAN: https://github.com/Jhy1993/HAN
+3. SCAN: https://github.com/mengzaiqiao/SCAN/tree/master
+4. GEN: https://github.com/BUPT-GAMMA/Graph-Structure-Estimation-Neural-Networks
+5. AMGCN: https://github.com/BUPT-GAMMA/AM-GCN/tree/master
 
 ## Reference
 
