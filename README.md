@@ -15,7 +15,7 @@
 
 ## Acknowledgement
 
-We appreciate the following github repos a lot for their valuable code base:
+We appreciate the following github repos a lot for their valuable code base or datasets:
 
 1. GCN: https://github.com/tkipf/pygcn
 2. HAN: https://github.com/Jhy1993/HAN
